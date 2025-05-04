@@ -1,0 +1,370 @@
+.subbanner {
+    display: block;
+    position: relative;
+}
+
+.subbanner img {
+    height: 356px;
+    object-fit: cover;
+}
+
+.title {
+    width: 100%;
+    position: absolute;
+    top: 42%;
+    color: blue;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.contain {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.title span {
+    position: absolute;
+}
+
+.tieude {
+    text-transform: uppercase;
+}
+
+.containanother {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.service {
+    background-color: #ffffff;
+    padding: 45px 45px;
+    margin: 10px auto 50px;
+    max-width: 1110px;
+}
+
+.tieudedv {
+    font-size: bold;
+    text-align: center;
+    font-size: 36px;
+    color: blue;
+}
+
+.toprow {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 70px;
+}
+
+.col812 {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+
+.data {
+    float: left;
+    height: 100%;
+    min-height: 1px;
+    display: block;
+    outline: none;
+    width: 730px;
+    position: relative;
+    left: 0px;
+}
+
+.newsleft {
+    width: 100%;
+    display: inline-block;
+}
+
+.imgnews {
+    width: 100%;
+    display: block;
+    height: 525px;
+    border-radius: 10px;
+    min-height: 525px;
+}
+
+.titlenews {
+    text-align: left;
+    font-family: Roboto, helvetica neue, Helvetica, Arial, Ubuntu, sans-serif;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-style: normal;
+    color: #0072bc;
+    font-weight: bold;
+}
+.titlenews:hover {
+    color: orange;
+}
+.desnew {
+    margin-bottom: 20px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.showname {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.sub1 {
+    display: flex;
+    align-items: center;
+}
+
+.imgsub1 {
+    display: block;
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.sub2 {
+    display: flex;
+    align-items: center;
+    color: #7d7d7d;
+}
+
+.imgsub2 {
+    display: block;
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+
+.col412 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.newsright {
+    padding: 20px;
+    background: #fafafa;
+    border-radius: 10px;
+}
+
+.listnewsright {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.tomtat {
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border-bottom: 1px solid #afafaf;
+    display: flex;
+}
+
+.ndtin {
+    cursor: pointer;
+    display: flex;
+}
+
+.anhmh {
+    width: 100px;
+    flex-shrink: 0;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    max-height: 72px;
+}
+
+.cnt {
+    cursor: pointer;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-weight: bold;
+}
+.cnt:hover {
+    color: orange;
+}
+.subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 10px 0;
+    max-height: 24px;
+}
+
+.anhmh2 {
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.listofnews {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 80px;
+}
+
+.col12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.chimuc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.ndchimuc {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #0072bc;
+}
+
+.more {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #f7941e;
+}
+.more:hover {
+    text-decoration: underline;
+}
+.roww {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.lg4md6 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.card {
+    text-align: center;
+    border-radius: 8px;
+}
+.card:hover {
+    box-shadow: 0 1rem 1rem rgba(0,0,0,.075)!important;
+}
+
+.anhtin {
+    width: 100%;
+    height: 252px;
+    min-height: 252px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.ndtintuc {
+    text-align: left;
+    padding: 20px;
+}
+
+.titlelink {
+    font-family: Roboto,helvetica neue,Helvetica,Arial,Ubuntu,sans-serif;
+    text-align: left;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0072bc;
+    cursor: pointer;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 54px;
+    margin-bottom: 10px;
+}
+.titlelink:hover {
+    color: orange;
+}
+.mota {
+    font-family: Roboto,helvetica neue,Helvetica,Arial,Ubuntu,sans-serif;
+    cursor: pointer;
+    text-align: left;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #313131;
+    margin-top: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 72px;
+    margin-bottom: 20px;
+}
+
+.chitiet {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chitietleft {
+    display: flex;
+}
+
+.chitietright {
+    display: flex;
+}
+
+.imgtin {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 5px;
+}
+
+.spantin {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #7d7d7d;
+    white-space: nowrap;
+}

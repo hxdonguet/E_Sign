@@ -1,0 +1,113 @@
+.subbanner {
+    display: block;
+    position: relative;
+}
+
+.subbanner img {
+    height: 356px;
+    object-fit: cover;
+}
+
+.title {
+    width: 100%;
+    position: absolute;
+    top: 42%;
+    color: blue;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.contain {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.title span {
+    position: absolute;
+}
+
+.tieude {
+    text-transform: uppercase;
+}
+
+.containanother {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.service {
+    background-color: #ffffff;
+    margin: 50px auto 50px;
+    max-width: 1110px;
+}
+
+.tieudedv {
+    text-transform: uppercase;
+    font-size: bold;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+    margin-bottom: 50px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.paragraph {
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+.paragraph2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.pr {
+    line-height: 2;
+}
+
+.anhmh {
+    height: 548px;
+    width: 730px;
+    
+}
+
+.gc {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.lkngoai {
+    font-weight: bold;
+    color: #0072bc;
+}
+
+.lkngoai:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.vidmh {
+    width: 100%;
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,188 @@
+.containerr {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    color: #47474f;
+    margin: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: center;
+    height: 75%;
+    padding: 24px;
+    box-sizing: border-box;
+    flex: 1 1;
+    background-color: #fff;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+}
+.toolheader {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    color: #47474f;
+    text-align: center;
+    box-sizing: inherit;
+    margin: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    padding: 6px 24px 30px;
+}
+.head1 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin-top: 0;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 52px;
+    color: #33333b;
+    text-align: center;
+}
+.head2 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    text-align: center;
+    box-sizing: inherit;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    max-width: 800px;
+    margin: 8px auto 0;
+    line-height: 32px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #47474f;
+}
+.uploader {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    color: #47474f;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    text-align: center;
+    position: relative;
+    display: table;
+}
+.uploader2 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    text-align: center;
+    margin: 0;
+    font: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80px;
+    min-width: 330px;
+    box-sizing: border-box;
+    padding: 24px 48px;
+    font-weight: 500;
+    font-size: 24px;
+    background: #e5322d;
+    line-height: 28px;
+    vertical-align: middle;
+    color: #fff!important;
+    text-decoration: none;
+    margin-bottom: 12px;
+    transition: background-color .1s linear;
+    border: 0;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.14);
+    order: 1;
+    max-width: 60vw;
+    position: relative;
+    z-index: 1;
+}
+.uploader2:hover {
+    background: red;
+    transition: 0.25s;
+}
+.extra {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    color: #47474f;
+    text-align: center;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    order: 2;
+    display: flex;
+    flex-direction: column;
+    margin-left: calc(100% + 12px);
+    position: absolute;
+    top: 0;
+}
+.drivee {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    text-align: center;
+    box-sizing: inherit;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    font-weight: 500;
+    width: 36px;
+    min-width: 0;
+    padding: 0;
+    height: 36px;
+    border-radius: 100%;
+    text-decoration: none;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.14);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    transition: all .1s linear;
+    cursor: pointer;
+    margin: 2px 0 4px;
+    background: #e5322d;
+    opacity: 1;
+    pointer-events: auto;
+}
+.drivee:hover {
+    background: red;
+    transition: 0.25s;
+}
+.another {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    color: #47474f;
+    text-align: center;
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    flex: 0 0 100%;
+    font-size: 14px;
+}

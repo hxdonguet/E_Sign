@@ -1,0 +1,241 @@
+.backgroundmodau {
+    cursor: pointer;
+    width: 100%;
+}
+
+.servicess {
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.servicess .tddv {
+    text-align: center;
+}
+.servicess .tddv h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    margin-bottom: 55px;
+    text-align: center;
+}
+.containdv {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.dfldv {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.colmd6bt {
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.servicess .honhop {
+    margin-bottom: 50px;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+}
+.servicess .anhminhhoa {
+    width: 130px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.servicess .anhminhhoa img {
+    width: 100%;
+    height: 100%;
+}
+.servicess .anhminhhoa img:hover {
+    width: 105%;
+    height: 105%;
+}
+.servicess .motadv {
+    margin-left: 10px;
+}
+.servicess .motadv h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0072bc;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.servicess .motadv h3:hover {
+    color: orange;
+    text-decoration: underline;
+}
+.servicess .motadv p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #313131;
+    opacity: .87;
+    margin-bottom: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 96px;
+}
+
+.partner {
+    margin-bottom: 100px;
+}
+.containerlg3 {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.title2 {
+    text-align: center;
+}
+.title2 h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    color: #313131;
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.logopartner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+.logopartner .logo {
+    max-width: 20%;
+    height: auto;
+    margin: 20px 55px 10px 55px;
+    cursor: pointer;
+}
+.tuvan {
+    margin: 50px 0;
+}
+.rowtv {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.col612 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.contactleft {
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+.contactleft .contactleftimg {
+    border-radius: 10px;
+    margin-left: 10px;
+}
+img {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+.formct {
+    padding: 13px 34.57px 28px;
+    background: #fff;
+    box-shadow: 0 0 40px rgba(125, 125, 125, 0.1);
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.formct_title {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.formtitle_icon {
+    width: 52.38px;
+    height: 50px;
+    flex-shrink: 0;
+    margin-right: 5px;
+}
+.formtitle_nd {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #313131;
+}
+.formct .maulienhe {
+    padding: 0 8.38px;
+}
+.formct .maulienhe .ndc {
+    margin-bottom: 10px;
+}
+.formct .maulienhe input {
+    padding: 13px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #313131;
+    height: 50px;
+    background: #fff;
+    border: 1px solid rgba(49,49,49,.3);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.formct .maulienhe textarea {
+    min-height: 92px;
+    height: 250px;
+    padding: 13px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #313131;
+    background: #fff;
+    border: 1px solid rgba(49,49,49,.3);
+    box-sizing: border-box;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    overflow: auto;
+    resize: vertical;
+}
+.formct button {
+    background: #eb3f3f;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    margin-top: 20px;
+    height: 50px;
+    transition: .3s;
+    border: none;
+    cursor: pointer;
+}
+.formct button:hover {
+    background-color: #0072bc;
+}
